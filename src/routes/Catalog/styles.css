@@ -1,0 +1,8 @@
+@media (max-width: 420px) {
+    .dsc-card img {
+        width: 280px;
+        height: 248px;
+        margin-bottom: 8px;
+        padding-bottom: 15px;
+    }
+}

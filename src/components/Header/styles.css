@@ -1,0 +1,12 @@
+.dsc-header {
+    background-color: var(--dsc-color-bg-tertiary);
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dsc-header h1 {
+    color: var(--dsc-color-bg-primary);
+    font-size: 24px;
+}

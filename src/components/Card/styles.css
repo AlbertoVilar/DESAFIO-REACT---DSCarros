@@ -1,0 +1,40 @@
+
+main {
+    width: 100%;
+    max-width: 746px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main h2 {
+    color: var( --dsc-color-ft-secundary);
+    font-size: 32px;
+    margin: 10px;
+    text-align: center;
+}
+
+.dsc-card {
+ 
+    border: 1px solid var(--dsc-color-bg-tertiary);
+    border-radius: 10px;
+    width: 100%;
+    height: 352px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.dsc-card p {
+    color: var( --dsc-color-ft-secundary); 
+   font-size: 20px;
+   font-weight: 700; 
+}
+
+.dsc-card img {
+    width: 391px;
+    height: 292px;
+    margin-bottom: 8px;
+    padding-bottom: 15px;
+}
